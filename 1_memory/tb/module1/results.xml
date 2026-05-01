@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1777641181" />
+    <testcase name="memory_data_test" classname="test_memory" file="/home/pineapple/mystudy/3_test/tb/module1/test_memory.py" lineno="8" time="0.03190302848815918" sim_time_ns="77.0" ratio_time="2413.5639670879077" />
+  </testsuite>
+</testsuites>
